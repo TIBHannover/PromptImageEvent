@@ -5,9 +5,9 @@ Golsa Tahmasebzadeh, Matthias Springstein, Ralph Ewerth, Eric Muller-Budack: "Fe
 
 ## Contents
 - [Installation](#Installation)
-- [Download Data & Checkpoints](#Download_Data_&_Checkpoints)
-- [Reproduce Results](#Reproduce_Results)
-- [Training](#Training)
+- [Download Data & Checkpoints](#Download_Data_&_Checkpoints) TODO
+- [Reproduce Results](#Reproduce_Results) TODO
+- [Training](#Training) TODO
 
 ## Installation
 
